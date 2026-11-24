@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 1500" width="2400" height="1500" xmlns:c2pa="http://c2pa.org/manifest">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0d14"/><stop offset="1" stop-color="#121624"/></linearGradient>
+ <linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#171b2c"/><stop offset="1" stop-color="#10131f"/></linearGradient>
+</defs>
+<rect width="2400" height="1500" fill="url(#bg)"/>
+<text x="80" y="118" font-family="Inter" font-weight="800" font-size="70" fill="#ffffff">Botello.Dev</text>
+<text x="80" y="178" font-family="Inter" font-weight="500" font-size="32" fill="#9aa3c7">Hoja de personajes  ·  Humor agrio para devs, contado por objetos</text>
+<text x="2320" y="118" font-family="Inter" font-weight="600" font-size="26" text-anchor="end" fill="#6f789c">v2</text>
+
+<rect x="80" y="240" width="720" height="560" rx="30" fill="url(#card)" stroke="#262c45" stroke-width="2"/>
+<rect x="120" y="240" width="640" height="4" rx="2" fill="#ff6b6b" opacity="0.9"/>
+<g transform="translate(440 496) scale(0.8)">
+<defs>
+ <linearGradient id="bds1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#555d7b"/><stop offset="0.5" stop-color="#3a4058"/><stop offset="1" stop-color="#262b3d"/></linearGradient>
+ <radialGradient id="dss1" cx="0.5" cy="0.45" r="0.8"><stop offset="0" stop-color="#173a55"/><stop offset="1" stop-color="#090b12"/></radialGradient>
+ <radialGradient id="gls1"><stop offset="0" stop-color="#ff3b3b" stop-opacity="0.95"/><stop offset="1" stop-color="#ff3b3b" stop-opacity="0"/></radialGradient>
+ <linearGradient id="dms1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff8a80"/><stop offset="1" stop-color="#c91f1f"/></linearGradient>
+ <filter id="bls1" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="7"/></filter>
+</defs><defs><radialGradient id="flps1"><stop offset="0" stop-color="#000" stop-opacity="0.55"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient></defs><ellipse cx="0" cy="214" rx="190" ry="24" fill="url(#flps1)"/>
+<rect x="-100" y="196" width="52" height="20" rx="6" fill="#1a1e2d"/>
+<rect x="48" y="196" width="52" height="20" rx="6" fill="#1a1e2d"/>
+<rect x="-126" y="-168" width="282" height="372" rx="24" fill="#191d2b"/>
+<rect x="-140" y="-180" width="280" height="370" rx="24" fill="url(#bds1)" stroke="#6b7392" stroke-width="2"/>
+<path d="M-118 -178 H118" stroke="#ffffff" stroke-opacity="0.22" stroke-width="2"/>
+<circle cx="0" cy="-200" r="92" fill="url(#gls1)" opacity="0.900"/>
+<rect x="-28" y="-194" width="56" height="16" rx="6" fill="#1c2132" stroke="#4a5272" stroke-width="2"/>
+<path d="M-22 -194 A22 22 0 0 1 22 -194 Z" fill="url(#dms1)" opacity="1.000"/>
+<path d="M-13 -203 Q-8 -212 3 -212" stroke="#ffffff" stroke-opacity="0.6" stroke-width="3" stroke-linecap="round" fill="none"/>
+<rect x="-112" y="-146" width="224" height="160" rx="18" fill="#0a0c14" stroke="#1f2538" stroke-width="3"/>
+<rect x="-106" y="-140" width="212" height="148" rx="14" fill="url(#dss1)"/>
+<rect x="-106" y="-140" width="212" height="46" rx="14" fill="#ffffff" opacity="0.045"/>
+<g transform="translate(-48.0 -76.0) rotate(-9.0)">
+ <rect x="-22.0" y="-31.0" width="44.0" height="62.0" rx="15.8" fill="#d7f2ff" filter="url(#bls1)" opacity="0.65"/>
+ <rect x="-22.0" y="-31.0" width="44.0" height="62.0" rx="15.8" fill="#d7f2ff"/>
+ <rect x="-15.0" y="-25.0" width="14.1" height="10.0" rx="4" fill="#ffffff" opacity="0.55"/>
+</g>
+<g transform="translate(48.0 -76.0) rotate(9.0)">
+ <rect x="-22.0" y="-31.0" width="44.0" height="62.0" rx="15.8" fill="#d7f2ff" filter="url(#bls1)" opacity="0.65"/>
+ <rect x="-22.0" y="-31.0" width="44.0" height="62.0" rx="15.8" fill="#d7f2ff"/>
+ <rect x="-15.0" y="-25.0" width="14.1" height="10.0" rx="4" fill="#ffffff" opacity="0.55"/>
+</g><path d="M-36 -20 L36 -20" stroke="#d7f2ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.9"/>
+<path d="M-108 46 H108 M-108 66 H108 M-108 86 H108" stroke="#151927" stroke-width="7" stroke-linecap="round" stroke-dasharray="12 8"/>
+<rect x="-112" y="118" width="104" height="48" rx="10" fill="#1f2436" stroke="#343b55" stroke-width="2"/>
+<rect x="8" y="118" width="104" height="48" rx="10" fill="#1f2436" stroke="#343b55" stroke-width="2"/>
+<path d="M-80 142 H-30 M30 142 H80" stroke="#4a5272" stroke-width="4" stroke-linecap="round"/>
+<circle cx="-96" cy="142" r="4.5" fill="#3cff8a"/>
+<circle cx="96" cy="142" r="4.5" fill="#ffb13c"/></g>
+<circle cx="132" cy="726" r="7" fill="#ff6b6b"/>
+<text x="154" y="737" font-family="Inter" font-weight="700" font-size="44" fill="#ffffff">Prod</text>
+<text x="130" y="770" font-family="Inter" font-weight="500" font-size="23" fill="#9aa3c7">El servidor de producción  ·  Voz aguda y nerviosa</text>
+
+<rect x="840" y="240" width="720" height="560" rx="30" fill="url(#card)" stroke="#262c45" stroke-width="2"/>
+<rect x="880" y="240" width="640" height="4" rx="2" fill="#5dff9a" opacity="0.9"/>
+<g transform="translate(1200 438) scale(0.84)">
+<defs>
+ <linearGradient id="bgs2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ddd0ad"/><stop offset="1" stop-color="#b3a37b"/></linearGradient>
+ <radialGradient id="ags2" cx="0.5" cy="0.5" r="0.75"><stop offset="0.55" stop-color="#7a5a1c" stop-opacity="0"/><stop offset="1" stop-color="#7a5a1c" stop-opacity="0.38"/></radialGradient>
+ <radialGradient id="scs2" cx="0.5" cy="0.45" r="0.7"><stop offset="0" stop-color="#14402a"/><stop offset="1" stop-color="#06100b"/></radialGradient>
+ <clipPath id="css2"><rect x="-96" y="-116" width="192" height="148" rx="20"/></clipPath>
+ <filter id="bls2" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5"/></filter>
+</defs><defs><radialGradient id="flls2"><stop offset="0" stop-color="#000" stop-opacity="0.55"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient></defs><ellipse cx="0" cy="262" rx="170" ry="22" fill="url(#flls2)"/>
+<rect x="-90" y="150" width="180" height="30" rx="8" fill="#a99b74"/>
+<rect x="-122" y="178" width="244" height="16" rx="10" fill="#8f8160"/>
+<rect x="-140" y="-165" width="280" height="320" rx="30" fill="url(#bgs2)" stroke="#8c7f5d" stroke-width="3"/>
+<rect x="-140" y="-165" width="280" height="320" rx="30" fill="url(#ags2)"/>
+<path d="M-118 -163 H118" stroke="#ffffff" stroke-opacity="0.45" stroke-width="2"/>
+<rect x="-112" y="-132" width="224" height="180" rx="28" fill="#9d8f6b"/>
+<rect x="-108" y="-128" width="216" height="172" rx="26" fill="#1b1a14"/>
+<rect x="-96" y="-116" width="192" height="148" rx="20" fill="url(#scs2)"/>
+<g clip-path="url(#css2)">
+ <path d="M-96 -116 H96 M-96 -111 H96 M-96 -106 H96 M-96 -101 H96 M-96 -96 H96 M-96 -91 H96 M-96 -86 H96 M-96 -81 H96 M-96 -76 H96 M-96 -71 H96 M-96 -66 H96 M-96 -61 H96 M-96 -56 H96 M-96 -51 H96 M-96 -46 H96 M-96 -41 H96 M-96 -36 H96 M-96 -31 H96 M-96 -26 H96 M-96 -21 H96 M-96 -16 H96 M-96 -11 H96 M-96 -6 H96 M-96 -1 H96 M-96 4 H96 M-96 9 H96 M-96 14 H96 M-96 19 H96 M-96 24 H96 M-96 29 H96 " stroke="#000000" stroke-opacity="0.24" stroke-width="2"/>
+ <rect x="-96" y="-116" width="192" height="50" fill="#ffffff" opacity="0.035"/>
+ <rect x="-57.0" y="-65.2" width="30.0" height="18.2" rx="7" fill="#5dff9a" filter="url(#bls2)" opacity="0.7"/>
+ <rect x="-57.0" y="-65.2" width="30.0" height="18.2" rx="7" fill="#5dff9a"/>
+ <path d="M-59 -40.0 Q-42 -32.0 -25 -40.0" stroke="#5dff9a" stroke-opacity="0.3" stroke-width="3" fill="none" stroke-linecap="round"/>
+ <rect x="27.0" y="-65.2" width="30.0" height="18.2" rx="7" fill="#5dff9a" filter="url(#bls2)" opacity="0.7"/>
+ <rect x="27.0" y="-65.2" width="30.0" height="18.2" rx="7" fill="#5dff9a"/>
+ <path d="M25 -40.0 Q42 -32.0 59 -40.0" stroke="#5dff9a" stroke-opacity="0.3" stroke-width="3" fill="none" stroke-linecap="round"/>
+ <text x="-82" y="22" font-family="DejaVu Sans Mono" font-size="17" fill="#5dff9a" opacity="0.85">&gt;_ sp_2009</text>
+</g>
+<g transform="rotate(-4 -64 102)">
+ <rect x="-118" y="76" width="108" height="52" rx="3" fill="#e8d98a" stroke="#b8a64a" stroke-width="1.5"/>
+ <text x="-64" y="100" font-family="DejaVu Sans Mono" font-weight="bold" font-size="17" text-anchor="middle" fill="#3b3217">sp_2009</text>
+ <text x="-64" y="118" font-family="DejaVu Sans Mono" font-weight="bold" font-size="13" text-anchor="middle" fill="#8a2f1f">NO TOCAR</text>
+</g>
+<rect x="20" y="82" width="92" height="10" rx="4" fill="#4a432f"/>
+<circle cx="38" cy="118" r="10" fill="#8c7f5d" stroke="#6f6448" stroke-width="2"/>
+<circle cx="68" cy="118" r="10" fill="#8c7f5d" stroke="#6f6448" stroke-width="2"/>
+<circle cx="100" cy="118" r="4.5" fill="#ffb13c"/>
+<path d="M-138 -138 L-108 -163 M-138 -116 L-82 -163 M-138 -92 L-52 -163 M-124 -150 Q-114 -128 -92 -118 M-132 -118 Q-116 -104 -102 -94" stroke="#ffffff" stroke-opacity="0.32" stroke-width="1.6" fill="none"/><path d="M-72 152 C-56 188 -88 214 -67 236" stroke="#23262f" stroke-width="11" stroke-linecap="round" fill="none"/><rect x="-75" y="234" width="16" height="20" rx="3" fill="#161821" stroke="#3a3e4d" stroke-width="1.5"/><path d="M-46 152 C-30 188 -62 214 -41 252" stroke="#b8453b" stroke-width="11" stroke-linecap="round" fill="none"/><rect x="-49" y="250" width="16" height="20" rx="3" fill="#161821" stroke="#3a3e4d" stroke-width="1.5"/><path d="M-22 152 C-6 188 -38 214 -17 238" stroke="#3b78b8" stroke-width="11" stroke-linecap="round" fill="none"/><rect x="-25" y="236" width="16" height="20" rx="3" fill="#161821" stroke="#3a3e4d" stroke-width="1.5"/><path d="M4 152 C20 188 -12 214 9 256" stroke="#d9a62e" stroke-width="11" stroke-linecap="round" fill="none"/><rect x="1" y="254" width="16" height="20" rx="3" fill="#161821" stroke="#3a3e4d" stroke-width="1.5"/><path d="M28 152 C44 188 12 214 33 242" stroke="#23262f" stroke-width="11" stroke-linecap="round" fill="none"/><rect x="25" y="240" width="16" height="20" rx="3" fill="#161821" stroke="#3a3e4d" stroke-width="1.5"/><path d="M52 152 C68 188 36 214 57 254" stroke="#3d9a6a" stroke-width="11" stroke-linecap="round" fill="none"/><rect x="49" y="252" width="16" height="20" rx="3" fill="#161821" stroke="#3a3e4d" stroke-width="1.5"/><path d="M74 152 C90 188 58 214 79 238" stroke="#b8453b" stroke-width="11" stroke-linecap="round" fill="none"/><rect x="71" y="236" width="16" height="20" rx="3" fill="#161821" stroke="#3a3e4d" stroke-width="1.5"/></g>
+<circle cx="892" cy="726" r="7" fill="#5dff9a"/>
+<text x="914" y="737" font-family="Inter" font-weight="700" font-size="44" fill="#ffffff">El Legacy</text>
+<text x="890" y="770" font-family="Inter" font-weight="500" font-size="23" fill="#9aa3c7">Stored procedure de 2009  ·  Voz grave, de abuelo</text>
+
+<rect x="1600" y="240" width="720" height="560" rx="30" fill="url(#card)" stroke="#262c45" stroke-width="2"/>
+<rect x="1640" y="240" width="640" height="4" rx="2" fill="#a78bfa" opacity="0.9"/>
+<g transform="translate(1960 463) scale(1.05)">
+<defs>
+ <linearGradient id="vbs3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b6bff"/><stop offset="1" stop-color="#ff7ac8"/></linearGradient>
+ <linearGradient id="vfs3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2f2560"/><stop offset="1" stop-color="#191539"/></linearGradient>
+ <linearGradient id="ves3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#cdbfff"/></linearGradient>
+ <filter id="bls3" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<defs><radialGradient id="flvs3"><stop offset="0" stop-color="#000" stop-opacity="0.55"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient></defs><ellipse cx="0" cy="196" rx="150" ry="18" fill="url(#flvs3)"/>
+<rect x="-150" y="-120" width="300" height="210" rx="74" fill="url(#vbs3)" filter="url(#bls3)" opacity="0.55"/>
+<path d="M-90 80 L-126 164 L-24 92 Z" fill="url(#vfs3)" stroke="url(#vbs3)" stroke-width="4" stroke-linejoin="round"/>
+<rect x="-150" y="-120" width="300" height="210" rx="74" fill="url(#vfs3)" stroke="url(#vbs3)" stroke-width="4"/>
+<path d="M-112 -86 Q0 -126 112 -86" stroke="#ffffff" stroke-opacity="0.16" stroke-width="6" stroke-linecap="round" fill="none"/>
+<ellipse cx="-52" cy="-18" rx="14" ry="24.00" fill="url(#ves3)"/>
+<ellipse cx="52" cy="-18" rx="14" ry="24.00" fill="url(#ves3)"/>
+<path d="M-46 38 Q0 68 46 38" stroke="url(#vbs3)" stroke-width="8" stroke-linecap="round" fill="none"/>
+<g transform="translate(114 -108)"><path d="M0 -20 L5 -5 L20 0 L5 5 L0 20 L-5 5 L-20 0 L-5 -5 Z" fill="#ffffff"/></g>
+<g transform="translate(-122 -98) scale(0.55)"><path d="M0 -20 L5 -5 L20 0 L5 5 L0 20 L-5 5 L-20 0 L-5 -5 Z" fill="#ffffff" opacity="0.7"/></g>
+</g>
+<circle cx="1652" cy="726" r="7" fill="#a78bfa"/>
+<text x="1674" y="737" font-family="Inter" font-weight="700" font-size="44" fill="#ffffff">Vibe</text>
+<text x="1650" y="770" font-family="Inter" font-weight="500" font-size="23" fill="#9aa3c7">La IA asistente  ·  Siempre segura, casi siempre mal</text>
+
+<rect x="80" y="840" width="720" height="560" rx="30" fill="url(#card)" stroke="#262c45" stroke-width="2"/>
+<rect x="120" y="840" width="640" height="4" rx="2" fill="#f2a93b" opacity="0.9"/>
+<g transform="translate(440 1070) scale(1.0)">
+<defs><clipPath id="tcs4"><rect x="-115" y="-155" width="230" height="310" rx="20"/></clipPath></defs>
+<defs><radialGradient id="flts4"><stop offset="0" stop-color="#000" stop-opacity="0.55"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient></defs><ellipse cx="0" cy="178" rx="140" ry="16" fill="url(#flts4)"/>
+<rect x="-109" y="-145" width="230" height="310" rx="20" fill="#000000" opacity="0.28"/>
+<rect x="-115" y="-155" width="230" height="310" rx="20" fill="#f4f1e8" stroke="#d8d2bf" stroke-width="2"/>
+<g clip-path="url(#tcs4)"><rect x="-115" y="-155" width="230" height="14" fill="#f2a93b"/></g>
+<rect x="-99" y="-128" width="84" height="30" rx="15" fill="#1f2436"/>
+<text x="-57" y="-107" font-family="Inter" font-weight="700" font-size="17" text-anchor="middle" fill="#ffffff">#4521</text>
+<path d="M66 -102 L78 -114 L90 -102 M66 -92 L78 -104 L90 -92" stroke="#d8453a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<circle cx="-34" cy="-44" r="8" fill="#1f2436"/><circle cx="34" cy="-44" r="8" fill="#1f2436"/>
+<circle cx="-31" cy="-47" r="2.6" fill="#ffffff"/><circle cx="37" cy="-47" r="2.6" fill="#ffffff"/>
+<path d="M-22 -8 H22" stroke="#1f2436" stroke-width="5" stroke-linecap="round"/>
+<rect x="-99" y="26" width="170" height="9" rx="4.5" fill="#d6d0bc"/>
+<rect x="-99" y="46" width="120" height="9" rx="4.5" fill="#d6d0bc"/>
+<rect x="-99" y="72" width="108" height="26" rx="13" fill="#e1ecff"/>
+<text x="-45" y="90" font-family="Inter" font-weight="600" font-size="14" text-anchor="middle" fill="#2457c5">En progreso</text>
+<rect x="-99" y="112" width="160" height="14" rx="7" fill="#e4dfcd"/>
+<rect x="-99" y="112" width="144.0" height="14" rx="7" fill="#2f9e6a"/>
+<text x="99" y="125" font-family="Inter" font-weight="700" font-size="15" text-anchor="end" fill="#3b3a33">90 %</text>
+</g>
+<circle cx="132" cy="1326" r="7" fill="#f2a93b"/>
+<text x="154" y="1337" font-family="Inter" font-weight="700" font-size="44" fill="#ffffff">El Ticket</text>
+<text x="130" y="1370" font-family="Inter" font-weight="500" font-size="23" fill="#9aa3c7">Tarjeta de tarea  ·  Su barra nunca termina</text>
+
+<rect x="840" y="840" width="720" height="560" rx="30" fill="url(#card)" stroke="#262c45" stroke-width="2"/>
+<rect x="880" y="840" width="640" height="4" rx="2" fill="#8892b8" opacity="0.9"/>
+<g transform="translate(1200 1063) scale(0.95)">
+<defs>
+ <linearGradient id="shs5" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a3050"/><stop offset="0.55" stop-color="#0d0f19"/><stop offset="1" stop-color="#05060a"/></linearGradient>
+ <linearGradient id="rms5" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a3acdc"/><stop offset="0.5" stop-color="#3d4468"/><stop offset="1" stop-color="#1a1e30"/></linearGradient>
+</defs>
+<defs><radialGradient id="flcs5"><stop offset="0" stop-color="#000" stop-opacity="0.55"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient></defs><ellipse cx="0" cy="206" rx="200" ry="18" fill="url(#flcs5)"/>
+<path d="M-170 196 C-170 84 -90 42 0 42 C90 42 170 84 170 196 Z" fill="url(#shs5)" stroke="url(#rms5)" stroke-width="3"/>
+<circle cx="0" cy="-96" r="74" fill="url(#shs5)" stroke="url(#rms5)" stroke-width="3"/>
+<path d="M-46 46 L0 124 L46 46 Z" fill="#c9cde0" opacity="0.88"/>
+<path d="M-46 46 L-4 136 L-82 98 Z M46 46 L4 136 L82 98 Z" fill="#0b0d16" opacity="0.9"/>
+<path d="M-11 78 L11 78 L17 152 L0 180 L-17 152 Z" fill="#8f2d3a"/>
+<rect x="-12" y="68" width="24" height="16" rx="5" fill="#a63a49"/>
+</g>
+<circle cx="892" cy="1326" r="7" fill="#8892b8"/>
+<text x="914" y="1337" font-family="Inter" font-weight="700" font-size="44" fill="#ffffff">El cliente</text>
+<text x="890" y="1370" font-family="Inter" font-weight="500" font-size="23" fill="#9aa3c7">Silueta con voz  ·  Pide cosas enormes</text>
+
+<rect x="1600" y="840" width="720" height="560" rx="30" fill="url(#card)" stroke="#262c45" stroke-width="2"/>
+<rect x="1640" y="840" width="640" height="4" rx="2" fill="#39ff88" opacity="0.9"/>
+<g transform="translate(1960 1078) scale(1.5)">
+<defs><filter id="bls6" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="12"/></filter></defs>
+<path d="M-126 -38 L-78 0 L-126 38" stroke="#39ff88" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<rect x="-34" y="-56" width="68" height="112" rx="10" fill="#39ff88" filter="url(#bls6)" opacity="0.55"/>
+<rect x="-34" y="-56" width="68" height="112" rx="10" fill="#39ff88" opacity="1.00"/>
+</g>
+<circle cx="1652" cy="1326" r="7" fill="#39ff88"/>
+<text x="1674" y="1337" font-family="Inter" font-weight="700" font-size="44" fill="#ffffff">El dev</text>
+<text x="1650" y="1370" font-family="Inter" font-weight="500" font-size="23" fill="#9aa3c7">El testigo cansado  ·  Solo un cursor parpadeante</text>
+
+<text x="80" y="1452" font-family="Inter" font-weight="500" font-size="26" fill="#6f789c">Máx. 2 personajes por pieza  ·  fondo oscuro liso  ·  movimiento mínimo  ·  un color de acento por personaje</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4Y2Q0MDMzZS0yNTEyLTQ1YzgtOTkyMy01YTkzZWU5ZmE2YTEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaN15TLaLLDeucSQw05UXcdYAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3NTA2YjI3Ni02NzRmLTQzNGEtOGY3ZC1lMjI1MDkzNzI3NWZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo0AXOSubHn9K4wF2Rul5YogAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggYHgsj+KVER6PEjE1EWRyzlDk+K7OMIpvRHSehaPWPn2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaIyNmItjjw2gzGyk5+3fEuoAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYICFj5CT9RpIw19Wi6F7rlrGcO9+I/LEUAqgFGX32wi8nZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GUfJZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjhjZDQwMzNlLTI1MTItNDVjOC05OTIzLTVhOTNlZTlmYTZhMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmM4NjE5OWM3LWE5NzEtNGZjOS1hNzFkLWE3ZTA2MTcxZGE3N3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBgeCyP4pURHo8SMTURZHLOUOT4rs4wim9EdJ6Fo9Y+faJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg0IBdSi72F7510/ZRdRf1j+f7OzSDUD3K6C02XEEWhF+iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggj0XO54QC3Wcl6LgC9qTI5Zh8q/wB/nXHyz8iLT14Zmp0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJ1SpQqjk6/BLHi5nvCOV3f5f8rR5K4WK/a+aGYJrSrqLQkYGfdXIA0WebszIWC83RMYqiLEUTpNNmjPjuxj2/c=</c2pa:manifest></metadata></svg>

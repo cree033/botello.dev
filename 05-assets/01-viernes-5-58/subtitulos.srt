@@ -1,0 +1,8 @@
+1
+00:00:00,800 --> 00:00:03,400
+Dime que no vas a desplegar.
+
+2
+00:00:13,400 --> 00:00:16,800
+Todos los desastres empiezan
+con “chiquito”.
